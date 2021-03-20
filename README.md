@@ -5,7 +5,7 @@ This text describes the process of buying a new car from the US dealership of a 
 The process will most likely work in other states that are similar to Washington, like California 
 It also includes the details about getting the best value trade-in from the dealership (if you decide to trade you car in).
 
-Context
+# Context
 
 Buying a car from the US car dealership is in some way similar a buying something on the Istanbul's Grand Bazaar.
 If you buy a car for the window sticker price you will be overpaying a lot.
@@ -33,7 +33,7 @@ This situation offers a huge benefit for the tech-savvy buyer as it is much hard
 to employ negotiation/persuation tactics over the email and it is much easier to make dealerships compete with 
 each other for your deal by using email and the algorithm described here. 
 
-Market economy
+# Market economy
 
 In the market economy fair competition between suppliers drives the prices down when demand is lower than the supply.
 To be able to leverage that when buying a new car, you should make market economy work for your benefit. 
@@ -55,7 +55,7 @@ The proposed algorithm also does not work for buying a used car. To be able to
 have a competition, there should be a supply of cars that are not different from each other. New cars of the same year,
 make and model and the same color and trim/options are identical. Each used car is unique.
 
-Details about car dealers that you must be aware of
+# Details about car dealers that you must be aware of
 
 The person who you will be working with the most is a "salesperson". This would be the one who will initially respond to you
 and do most of the communication first. Their title is "sales consultant" or "sales specialist" etc. You will see that
@@ -77,14 +77,14 @@ You do not have to lie to get the best price from dealers. Dealerships, on the o
 
 It is very hard for salespeople to lie in emails as the written offers can be shared and they can be caught lying by other dealerships. They will try to refuse to have written offers and invent million reasons to not do it (starting from "the computer system only works when you come in person", "I cannot see your attachment") etc. Politely mention that you are able to get quotes from other delerships and ask if they can provide the same - if they refuse, it means that you will not be able to work with them. Most of dealerships want your deal, they will stop playing these games once they see that their competitors don't play them.
 
-Technical notes on email format/text
+# Technical notes on email format/text
 
 Most salespeople are not good in hanlding emails: for example they love to include the full text of the previous email in their replies and they usually have huge pictures in their email signatures - if you do the the text of each email becomes enormous and it causes problems for email software. To avoid this, each time you reply, delete all the email text and start from the blank page. Treat that as an in-person talk with searchable history, it will save you from lots of problems.
 
 Dealers also usually do not change the subject of email, so if you change it to the one that will be easier to for you to use it will stay - suggested subject name is
 "<Dealer name> <car description>"
 
-The email etiquette that you should follow to get the best results in the shortest time
+# The email etiquette that you should follow to get the best results in the shortest time
 
 1. No matter what happens, be polite and calm. Never say things like "I got better offer, why are you so cheap, you can do better" etc - this puts people down. You should have couple of phrases ready like "Can you do better than that?" "I will not be able to do business with you if you will not provide the OTD price breakdown" etc etc. They should be neutral, calm and assertive. It is quite easy to do over the email.
 
@@ -97,7 +97,7 @@ b) waiting for something to happen (e.g. waiting for replies from other dealers,
 4. Dealers will also try to ignore direct questions for which you need clear answers and instead ask you different questions. In this case politely remind them that you really need the answer to the concrete questions an not move conversation forward until getting it on the right track. If there is enough dealers it is ok to lose 2-3 ones that do not follow the email conversation track that you need them to follow. 
 It is important that it is you who is driving the conversation with them (think of that as of a dance, leading and following in tango, for example), not the other way around.
 
-The Algorithm implementation
+# The Algorithm implementation
 
 "The algorithm" proposed is nothing new: it has been published on the Internet and discussed many times already
 google something like "how to buy a new car online to make dealerships compete with each other".
@@ -105,7 +105,7 @@ You will get links like https://www.moneyunder30.com/get-the-best-deal-on-a-new-
 contains lots of useful information that may not be mentioned here. This text focuses on the implementation details - 
 concrete steps you need to take and details you want to know about.
 
-Step 1. Determine what is the car you want.
+## Step 1. Determine what is the car you want.
 
 You must define what is the 
 - make and model
@@ -121,7 +121,7 @@ Making that choice and committing to it is hard. If you do not do it in the begi
 Useful resource for making up your mind is consumerreports.com web site (some libraries offer a free membership, but 
 it is well worth the price if you just buy an online membership) - IMO their car research is unbiased and is some data is coming from the real customer feedback. 
 
-Step 2. Test drive your car selected in Step 1 and optionally get the in-person trade-in appraisal
+## Step 2. Test drive your car selected in Step 1 and optionally get the in-person trade-in appraisal
 
 Find the closest dealership that has the car you need and walk in for a test drive, do not bother scheduling an appointment.
 Say that you are still deciding on the brand, make and model and need to test drive this one to see
@@ -131,7 +131,7 @@ You may be asked to give your phone number before a test drive ("to get you into
 
 If you plan to do a trade-in ask the dealer to do the trade-in appraisal - have a written offer with it from them and walk away
 
-Step 3. Figure out dealer cost of the car you want.
+## Step 3. Figure out dealer cost of the car you want.
 
 Dealerships work to make profit. 
 To make it overly simplified, they buy a car from manufacturer for price1 and sell it to you at price2. They provide the additional service of showing you the car, setting up a safe environment to store cars and doing the paperwork for you.
@@ -148,12 +148,12 @@ dealer cost = price1 = Dealer Invoice Price - Holdback - Rebates & Incentives (I
 
 Save the dealer cost number for your car somewhere, you will need it later.
 
-Step 4. (optional, if financing). Get preapproved for a car loan in your bank or any other bank.
+## Step 4. (optional, if financing). Get preapproved for a car loan in your bank or any other bank.
 
 You do not want to use financing products that dealerships offer - they are worse than the ones you can shop around for.
 Get preapproved with your bank or and other bank and get the preapproval letter ready before step 5.
 
-Step 5. Determine the full list of dealerships that you will contact.
+## Step 5. Determine the full list of dealerships that you will contact.
 
 Use web site like google maps to search for "<brand> dealer" and look how long will it take to drive to each of the 
 dealerships. Your perfect deal may be in any of the ones you find, choose the ones that you can realisticaly drive to if they will offer the best deal. Do not self-limit, include all dealerships that you can potentially get to. Consider how much is one hour of your time worth to determine if it is worth spending 6 hours to drive somewhere and back for saving a thousand dollars, you can use this information later when comparing offers.
@@ -161,7 +161,7 @@ If you are in Seattle and dealership is in Spokane, you should still consider in
 have a good offer it can be possible to use it while negotiating with a dealership in Puyallup, it is well worth it.
 Dealerships in Oregon (Portland, specifically) sometimes can offer fantastic deals (but remember that you will still have to pay sales tax in WA, mention it very clearly that your car will be registered in WA, they know how to deal with this as they have around 1/3rd of their clients from WA)
 
-Step 6. Contact all dealerships from the step 5.
+## Step 6. Contact all dealerships from the step 5.
 
 Plan about a week for the whole process. You will start around Friday and you will likely have a car on the next weekend.
 You need to write the first message and send it to all dealerships at the same time. 
@@ -214,7 +214,7 @@ on two things at once (new car price and trade-in price), therefore no matter wh
 "OTD price" means out-the-door price - the amount of money that you will be paying put of pocket or financing to get the new car.
 All dealers know that term, by using it from the start you show that some entry-level tricks (e.g. "forgetting" to mention additional dealer "licensing fee" or certain "discouts") do not work for you - it will save time.
 
-Step 7. Getting replies and replying back
+## Step 7. Getting replies and replying back
 
 You will get replies that fall into several typical categories. There are ways to reply to them based on a category.
 You may have replies of a different categories with the same dealer multiple times before you get the right ones and can move to the next step
@@ -280,7 +280,7 @@ Make sure that VIN in email matches the spec of the car (sometimes salespeople m
 You also need and the car that does not have any additional dealer-installed options that drive the price up (like wheel locks or some paint protections), if it does, politely ask if you can refuse from them.
 Dealerships make a lot of money by selling these at insanely inflated price. You can get them installed elsewhere for much lower cost if you need it.
 
-Step 8. Driving the price down.
+## Step 8. Driving the price down.
 
 At this point you should have OTD price breakdown from several different dealerships, the more is the better. Make a spreadsheet from them. The table should list
 
@@ -370,14 +370,14 @@ and come up with the best offer they can.
 
 ```
 
-Step 9. Choosing the best deal for the new car
+## Step 9. Choosing the best deal for the new car
 
 At this point you should have several offers with more or less matching OTD price.
 If you do not plan doing any trade-in, simply chose the one that has smallest OTD price and is not too far away (you can calculate how much it costs to drive to some far away place and back by using your hourly salary adding a price of gas. If the offer does not compensate that, it is not worth driving there, this offer can and should be used for negotiations though).
 Then make the finall pass around all dealers saying that this is the last possible time for them to earn your business.
 You are going to accept the attached offer unless you get better OTD price until certain specific time (usually, 24 hours or so). Wait for the better offer and then go to the dealership - skip to the Step 13.
 
-Step 10. Trade-in
+## Step 10. Trade-in
 
 Dealerships love trade-ins - in most cases it allows them to compensate even for selling the new car
 below the invoice price. You must make dealerships compete for your car to get the best deal for trade-in.
@@ -414,7 +414,7 @@ If you file a claim you will also get a good lowball estimate of the repair cost
 
 If you decide not to file a claim, just go to your insurance preferred bodyshop and do the estimate - get the numbers from them which will include the repair price and the list of things they need to do, this is usually free and can be done within 1-2 business days. You goal is to get as small estimate as possible, do not go to places that are known of high prices and good quality of work - you need an estimate for negotiation, not for repairs.
  
-Step 11. Trade-in appraisal.
+## Step 11. Trade-in appraisal.
 
 If you did not already do it in Step 2, drive to the closest dealership and ask them to give the best trade-in deal for your car - this will take them no more than 10-30 minutes to do.
 This may be a dealership that you have already contacted. Ask for written offer from them that will include the trade-in price, mention that you are still
@@ -539,7 +539,7 @@ Thanks Pete,
 Yes, I am not in a hurry, can definitely wait until tomorrow. I am currently getting the best possible trade-in appraisals from other dealerships, so the process can take 1-2 days, it is absolutely fine, I will wait for your reply.
 ```
 
-Step 12. Getting offers with OTD price that includes a trade-in.
+## Step 12. Getting offers with OTD price that includes a trade-in.
 
 After you get the trade-in appraised by used car department you should start to get an understanding of how dealers want to give for your car. As a fun excercise you can now try to match it with KBB and see how it goes. Once at least one department does the real appraisal it becomes much easier to get the same information from others: just mention that you already have appraisal from other dealership and mention questions they asked and information you provided. Do not intially share the trade-in value. Your email will get to the right people faster this way.
 
@@ -554,7 +554,7 @@ After you follow the same process of decreasing OTD price (it may so happen that
 
 Make one final call saying that this will be the last call and you are waiting for the best possible offer to beat the exsting one until some deadline. Wait until deadline and choose the best deal.
 
-Step 13. At the dealership
+## Step 13. At the dealership
 
 Print the offer that you received over email with OTD price breakdown and take it with you.
 if you are making a trade-in do not forget to bring 
