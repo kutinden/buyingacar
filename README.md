@@ -68,10 +68,10 @@ usually involve "going to the manager to print it out"
 
 Salespeople are motivated by greed and fear - you should use both for your own benefit.
 
-Greed - they want to get as much money from you as possible and receive their comission - always hint them that they will get the best deal from you if they play by 
+**Greed** - they want to get as much money from you as possible and receive their comission - always hint them that they will get the best deal from you if they play by 
 your rules (of course, do not tell this explicitly), mention that you want to work with them to get the best deal. Alwys be polite, do not be rude or condescending. you do not have to behave like their friend (they are not your friends), just be nice.
 
-Fear - they are afraid to lose the deal to other dealership who is faster, responds better or brainwashes / fools you better - always mention that you are reviewing offers from other dealers, mention that other dealers are doing something this particular dealership refuses to do and this may be the reason for them to not have a deal with you. Never quote other email texts, only share the written proposals or just numbers. This works wonders. Remember: dealerships can and do call each other - they can catch you lying. You should be absolutely honest, but you also should not say more than needed - some information is important for getting the best price from dealers and they have no reason to have it from you.
+**Fear** - they are afraid to lose the deal to other dealership who is faster, responds better or brainwashes / fools you better - always mention that you are reviewing offers from other dealers, mention that other dealers are doing something this particular dealership refuses to do and this may be the reason for them to not have a deal with you. Never quote other email texts, only share the written proposals or just numbers. This works wonders. Remember: dealerships can and do call each other - they can catch you lying. You should be absolutely honest, but you also should not say more than needed - some information is important for getting the best price from dealers and they have no reason to have it from you.
 
 You do not have to lie to get the best price from dealers. Dealerships, on the other hand, have to do it to get the best deal for them when you are sitting inside in-person. They also lie over email. Remember that when talking to them and always mention that you are 100% honest and expect honesty from them. There will be no honesty, but the fact that you mention it, will also trigger guilt (in addition to greed and fear) which may work for your benefit.
 
@@ -82,7 +82,7 @@ It is very hard for salespeople to lie in emails as the written offers can be sh
 Most salespeople are not good in hanlding emails: for example they love to include the full text of the previous email in their replies and they usually have huge pictures in their email signatures - if you do the the text of each email becomes enormous and it causes problems for email software. To avoid this, each time you reply, delete all the email text and start from the blank page. Treat that as an in-person talk with searchable history, it will save you from lots of problems.
 
 Dealers also usually do not change the subject of email, so if you change it to the one that will be easier to for you to use it will stay - suggested subject name is
-"<Dealer name> <car description>"
+"```<Dealer name> <car description>```"
 
 # The email etiquette that you should follow to get the best results in the shortest time
 
