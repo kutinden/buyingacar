@@ -343,7 +343,7 @@ Can  you do better than that?
 
 If you receive a reply with an offer with lower OTD than the best one, repeat this process with the new offer until you get best possible offer from everyone.
 
-Some dealers may reply that they "cannot open your attachment" or "did not receive a file" or "link does not work". It may or may not be true. Re-send the attachment again. Use place like google drive to share files. Mention that other dealers are able to access it. Make it clear that you will not move forward inconversation if they can't open the attached offer.
+Some dealers may reply that they "cannot open your attachment" or "did not receive a file" or "link does not work". It may or may not be true. Re-send the attachment again. Use place like google drive to share files. Mention that other dealers are able to access it. Make it clear that you will not move forward in conversation if they can't open the attached offer.
 
 After you have new offers that either match what best OTD is or are better than original ones, look at MSRP discount (or, as alternative, the difference between sale price and the invoice price you found in step 3) for each offer. They will be different - the better ones have MSRP discount higher or difference from invoice lower (MSRP should be the same if the car is the same in all dealerships).
 
