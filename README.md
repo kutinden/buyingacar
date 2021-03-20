@@ -89,7 +89,9 @@ Dealers also usually do not change the subject of email, so if you change it to 
 1. No matter what happens, be polite and calm. Never say things like "I got better offer, why are you so cheap, you can do better" etc - this puts people down. You should have couple of phrases ready like "Can you do better than that?" "I will not be able to do business with you if you will not provide the OTD price breakdown" etc etc. They should be neutral, calm and assertive. It is quite easy to do over the email.
 
 2. Each email thread with a dealer should **always** be in 2 possible states:
+
 a) You are  waiting for reply from the other party. If the reply does not happen for too long, you can ping them. Sometimes they are getting distracted by a client who came in-person and may take long time to reply - it is ok. 
+
 b) waiting for something to happen (e.g. waiting for replies from other dealers, going to bed, comparing offers etc) before you can reply back - in this case you reply back with the explaination to the other party what are you doing now ASAP. This will make it easy to email to you for the dealer and will minimise the time you spend emailing (you will be able to work during that time).
 
 3. It is ok **for you** to not answer questions that you do not need to answer (e.g. what are your certain plans, your budget etc), ignore them completely.
@@ -144,7 +146,9 @@ googling "<brand> dealer invoice price" is usually enough - this information is 
 
 At this moment of March 2021, [this place](https://www.car-buying-strategies.com/) has this data for most brands and current year models.
 
+```
 dealer cost = price1 = Dealer Invoice Price - Holdback - Rebates & Incentives (If any).
+```
 
 Save the dealer cost number for your car somewhere, you will need it later.
 
@@ -212,7 +216,7 @@ This may be not true if you actually plan on doing one, but negotiations are muc
 on two things at once (new car price and trade-in price), therefore no matter what you want to do you always say that you do not plan to do trade in first. You can always change your mind after you get enough offers with the new car price, there is no penalty for changing your mind on trade in.
 
 "OTD price" means out-the-door price - the amount of money that you will be paying put of pocket or financing to get the new car.
-All dealers know that term, by using it from the start you show that some entry-level tricks (e.g. "forgetting" to mention additional dealer "licensing fee" or certain "discouts") do not work for you - it will save time.
+All dealers know that term, by using it from the start you show that some entry-level tricks (e.g. "forgetting" to mention additional dealer "licensing fee" or certain "discounts") do not work for you - it will save time.
 
 ## Step 7. Getting replies and replying back
 
@@ -240,10 +244,12 @@ in their system, it will be easier for salesperson to get on the email track]
 4. Links to the web sites with "exclusive internet price" or just numbers listed in email without the price breakdown.
 Reply with thank-you email explaining that you actually want OTD price breakdown. You may need to do it several times.
 
+```
 Hello <>,
 This is an interesting offer,
 
 Can you please include the information on license and doc fees and also calculate the appropriate sales tax for your county as I am trying to figure out the OTD price. What I need is a the best OTD price that you commit to in the written form. You can send it in a form of purchase agreement that I will have to sign when making a deal in the office.
+```
 
 5. Anything that mentions a deposit you need to make to hold the vehicle under your name (they may mention that the vehicle is in high demand and can be bought by someone else). 
 Reply that you do not plan doing any deposits and you know other dealerships that work without deposits.
@@ -318,7 +324,7 @@ Dealerships cannot change the following:
 - Sales tax rate - the rate is determined by the county dealership is in. In some remote counties like Colwitz county sales tax is lower than in counties like King county where most of the dealerships are.
 Lower sales tax can make the OTD price lower with the other things being equal. If you happen to have such an offer, this is very good.
 Typically, in the counties with lower sales tax dealerships also have fewer deals and the price the same cars higher to make more profit off each car.
-- their location - how much time you need to drive to them.
+- Their location - how much time you need to drive to them.
 
 Dealerships can change:
 1. Sale price - can change it to any number they agree to - this is the thing subject to negotiation.
@@ -329,7 +335,7 @@ You should try to avoid deals that have additional options installed by dealer a
 Start by finding the best possible OTD price (pay attention to the fact that licensing fee is only estimate and should not be considered as a dealbreaker when you compare offers) and send the copy of it (ideally as a PDF) to all other dealerships asking if they can do better than that. Gather the new offers, ask them in PDF form if possible.
 
 ```
-Hello Jack
+Hello Jack,
 
 I have an offer (attached) for 37003 OTD for the car I want. 
 Can  you do better than that?
@@ -365,10 +371,6 @@ You can always find what the mileage is on the new car (dealers typically provid
 During all the time when sending emails to dealers you must periodically metion that you are currently reviewing offers 
 from different dealerships and they want to earn your business. This will make salesperson want to close the deal faster
 and come up with the best offer they can.
-
-```
-
-```
 
 ## Step 9. Choosing the best deal for the new car
 
