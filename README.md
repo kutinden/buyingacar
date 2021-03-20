@@ -11,7 +11,7 @@ Buying a car from the US car dealership is in some way similar a buying somethin
 If you buy a car for the window sticker price you will be overpaying a lot.
 If you trade your car in with the dealership for the first price that dealer names - you will be losing a lot.
 (Well, "a lot" is a subjective term. If you do not care if you pay $30k or $33k out of pocket for the new SUV, this post may be not that interesting for you)
-Both you and the seller know about the sticker price being inflated and that the first trade-in offer is lowball - so you are supposed to negotiate unless you are rich enough to follow the Seymours' Cray algorithm for buying cars (https://www.reddit.com/r/computerscience/comments/3zsrcj/the_cray_algorithm_for_buying_cars/). And if you are not, you will negotiate. A lot. 
+Both you and the seller know about the sticker price being inflated and that the first trade-in offer is lowball - so you are supposed to negotiate unless you are rich enough to follow the [Seymours' Cray algorithm for buying cars](https://www.reddit.com/r/computerscience/comments/3zsrcj/the_cray_algorithm_for_buying_cars/). And if you are not, you will negotiate. A lot. 
 
 Salespeople in US are experts in in-person verbal negotiations, just like the sellers on a Istanbul's Grand Bazaar.
 If you let them, they can and will employ all the dirty persuasion and negotiation tactics that you may or may not be aware of.
@@ -101,7 +101,7 @@ It is important that it is you who is driving the conversation with them (think 
 
 "The algorithm" proposed is nothing new: it has been published on the Internet and discussed many times already
 google something like "how to buy a new car online to make dealerships compete with each other".
-You will get links like https://www.moneyunder30.com/get-the-best-deal-on-a-new-car - you may want to read it, it
+You will get links like [this](https://www.moneyunder30.com/get-the-best-deal-on-a-new-car) - you may want to read it, it
 contains lots of useful information that may not be mentioned here. This text focuses on the implementation details - 
 concrete steps you need to take and details you want to know about.
 
@@ -142,7 +142,7 @@ Your goal is to get as accurate information about what price1 ("dealer cost") is
 the two important numbers you want to find is "dealer invoice price" and "holdback". Google details about what they are if you are interested.
 googling "<brand> dealer invoice price" is usually enough - this information is not hidden or secret (many different dealerships buy cars from the manufacturer), though it may be tricky to find online. 
 
-At this moment of March 2021, the https://www.car-buying-strategies.com/ has this data for most brands and current year models.
+At this moment of March 2021, [this place](https://www.car-buying-strategies.com/) has this data for most brands and current year models.
 
 dealer cost = price1 = Dealer Invoice Price - Holdback - Rebates & Incentives (If any).
 
