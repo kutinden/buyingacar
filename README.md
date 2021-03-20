@@ -142,7 +142,7 @@ Their profit on each car is price2 - price1. They will not sell a car for loss u
 Your goal is to get as accurate information about what price1 ("dealer cost") is as possible. This is a little tricky, but Internet is your friend.
 
 the two important numbers you want to find is "dealer invoice price" and "holdback". Google details about what they are if you are interested.
-googling "<brand> dealer invoice price" is usually enough - this information is not hidden or secret (many different dealerships buy cars from the manufacturer), though it may be tricky to find online. 
+googling "```<brand> dealer invoice price```" is usually enough - this information is not hidden or secret (many different dealerships buy cars from the manufacturer), though it may be tricky to find online. 
 
 At this moment of March 2021, [this place](https://www.car-buying-strategies.com/) has this data for most brands and current year models.
 
