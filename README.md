@@ -547,7 +547,7 @@ After you get the trade-in appraised by used car department you should start to 
 
 Ask each dealer to update the Purchase agreement they have provided taking into account the trade-in value they offered.
 They might refuse saying that this is not the final trade-in value and it may change after they see the car - make them sure
-that you are willing to accept that risk but only if the value changes because something happens to the car while you are driving it to dealership. For all other cases, politely ask them what exactly they will be checking about the car that cannot be done now - say that they can put a lower but realistic number. If they want to do business with you they will have no way of not answering this question. If they do not, they will not do business with you - make it politely clear to them in writing.
+that you are willing to accept that risk but only if the value changes because something happens to the car while you are driving it to dealership. For all other cases, politely ask them what exactly they will be checking about the car that cannot be done now - say that they can put a lower but realistic number. If they want to do business with you they will have no way of not answering this question. If they do not, they will not do business with you - politely make it clear to them in writing.
 
 You will receive the updated offers. You already know what to do with them - take the best one and share it among all participating dealerships (at this point there will be not many left).
 You can also use just the trade-in value from the offers if some offers include the car you do not want - these offers are still valid for trade-in negotiations.
@@ -559,7 +559,7 @@ Make one final call saying that this will be the last call and you are waiting f
 ## Step 13. At the dealership
 
 Print the offer that you received over email with OTD price breakdown and take it with you.
-if you are making a trade-in do not forget to bring 
+If you are making a trade-in do not forget to bring 
 - the title of the car you will be trading in
 - second key for the car if you have one
 - proof of insurance
