@@ -1,3 +1,4 @@
+# Likarog guide: how to buy a car online (with optional trade-in)
 
 I have recently bought a new car and would like to share the 
 details about the process that may help other people to get the best deal.
