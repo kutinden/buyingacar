@@ -197,7 +197,7 @@ The message is going to be exactly the same and can be copy-pasted.
 > {Feature1}
 > {Feature2}
 > 
-> Please quote me the best OTD price (including all applicable taxes and fees) for such a vehicle if you have > one in stock.
+> Please quote me the best OTD price (including all applicable taxes and fees) for such a vehicle if you have  one in stock.
 > Please also include the OTD price breakdown and the link to the inventory that contains the VIN and the mileage
 > 
 > For the licensing fee calculation my address is in {City} {State}
@@ -223,16 +223,13 @@ You may have replies of a different categories with the same dealer multiple tim
 1. The email that asks for your phone number or for the phone call.
 Reply that you prefer use email for communications. You may need to do it several times. Be polite but firm.
 
-```
-Hello {},
-
-I would prefer to use email for all communications about buying the car.
-Please share the OTD price breakdown with the link to the inventory for the car I am interested in.
-
-[copy-paste the text that you put in the first web form here, it may be lost
-in their system, it will be easier for salesperson to get on the email track]
-
-```
+> Hello Scott,
+>
+> I would prefer to use email for all communications about buying the car.
+> Please share the OTD price breakdown with the link to the inventory for the car I am interested in.
+> 
+> {copy-paste the text that you put in the first web form here, it may be lost
+> in their system, it will be easier for salesperson to get on the email track}
 
 2. Name-your-own-price emails ("what price will make you buy a car from us today" "what should I do to win your business"): reply with the price below the dealer cost from step 2, repeat the list of vehicle requirements in the reply email and repeat that you need their best OTD price breakdown. 
 
@@ -241,12 +238,10 @@ in their system, it will be easier for salesperson to get on the email track]
 4. Links to the web sites with "exclusive internet price" or just numbers listed in email without the price breakdown.
 Reply with thank-you email explaining that you actually want OTD price breakdown. You may need to do it several times.
 
-```
-Hello {},
-This is an interesting offer,
-
-Can you please include the information on license and doc fees and also calculate the appropriate sales tax for your county as I am trying to figure out the OTD price. What I need is a the best OTD price that you commit to in the written form. You can send it in a form of purchase agreement that I will have to sign when making a deal in the office.
-```
+> Hello {},
+> This is an interesting offer,
+>
+> Can you please include the information on license and doc fees and also calculate the appropriate sales tax for your county as I am trying to figure out the OTD price. What I need is a the best OTD price that you commit to in the written form. You can send it in a form of purchase agreement that I will have to sign when making a deal in the office.
 
 5. Anything that mentions a deposit you need to make to hold the vehicle under your name (they may mention that the vehicle is in high demand and can be bought by someone else). 
 Reply that you do not plan doing any deposits and you know other dealerships that work without deposits.
@@ -258,21 +253,19 @@ The offer does not always have to be a PDF (it usually is though), what the emai
 Emails with offers and OTD price breakdown are the ones you want to get from each dealership. The more you get is the better.
 They usually look like this:
 
-```
-Hello Dan,
-
-Here is a breakdown:
-
-$33,310.00    Sale Price
-$3,530.28     Sales Tax
-$521.25       Licensing
-$150.00       Document Fee
-
-$37,511.25    Out the Door Total
-
-link to the inventory: http://....
-VIN XXXXXXX
-```
+> Hello Dan,
+> 
+> Here is a breakdown:
+>
+> $33,310.00    Sale Price
+> $3,530.28     Sales Tax
+> $521.25       Licensing
+> $150.00       Document Fee
+>
+> $37,511.25    Out the Door Total
+> 
+> link to the inventory: http://....
+> VIN XXXXXXX
 
 If a dealership is refusing to provide OTD price breakdown after being asked to do it multple times, stop replying to them.
 You may want to contact them later for trade-in negotiations. Though there is a high chance that they will not have a good deal for trade-in as well, you may ignore them altogether.
@@ -298,15 +291,13 @@ also add the column "MSRP discount" - ask the dealer to provide it unless it is 
 
 To request a picture of Monroney sticker if you do not already have one (most likely you already do), write something like this
 
-```
-Hello Amanda,
-
-Can you please also attach the picture of Monroney sticker for the car we are talking about and add MSRP discount to the OTD price breakdown?
-
-This will help me better compare the offers.
-
-Thanks
-```
+> Hello Amanda,
+>
+> Can you please also attach the picture of Monroney sticker for the car we are talking about and add MSRP discount to the OTD price breakdown?
+>
+> This will help me better compare the offers.
+>
+> Thanks
 
 "MSRP discount" is the difference between MSRP and the Sale price of the car. It is easier to negotiate between different offers if you have this number for each deal. 
 
@@ -331,12 +322,10 @@ You should try to avoid deals that have additional options installed by dealer a
 
 Start by finding the best possible OTD price (pay attention to the fact that licensing fee is only estimate and should not be considered as a dealbreaker when you compare offers) and send the copy of it (ideally as a PDF) to all other dealerships asking if they can do better than that. Gather the new offers, ask them in PDF form if possible.
 
-```
-Hello Jack,
-
-I have an offer (attached) for 37003 OTD for the car I want. 
-Can  you do better than that?
-```
+> Hello Jack,
+>
+> I have an offer (attached) for 37003 OTD for the car I want. 
+> Can  you do better than that?
 
 If you receive a reply with an offer with lower OTD than the best one, repeat this process with the new offer until you get best possible offer from everyone.
 
@@ -346,11 +335,9 @@ After you have new offers that either match what best OTD is or are better than 
 
 Find the offer with the best MSRP discount and send it to other dealerships asking if they can match MSRP discount - this may futher reduce the price as other dealerships will see that their competitors are moving less from the invoice price then they do and will try to match that
 
-```
-Hello Bonnie,
-
-I have the offer from {Other dealer} (attached) that has a better MSRP discount, I wonder if you can match it - OTD will be lower because sales tax in your county is lower than in {Other dealers county}. Can you do that?
-```
+> Hello Bonnie,
+>
+> I have the offer from {Other dealer} (attached) that has a better MSRP discount, I wonder if you can match it - OTD will be lower because sales tax in your county is lower than in {Other dealers county}. Can you do that?
 
 At this point you may start noticing a difference in dealer behavior: some of them are more open to negotiation that others.
 One of the reasons for that is that some of the cars are sitting on the lot for too long and they would like to get rid of them quicker to avoid burning money (keeping the car on the lot costs some amount each day due to insurance, parking space etc etc). 
@@ -437,47 +424,45 @@ Then upload the pictures to somewhere like google photos and get a shareable lin
 
 Send the following email to all dealers including the ones that did not have the car that you wanted in stock. 
 
-```
-Thanks for the offer, Jeremy
-
-What may help me choose to buy a car from you is the trade-in value.
-
-I am currently reviewing multiple different offers which more or less match for the vehicle spec and price is about the same OTD and all of them are willing to make a deal now, the only difference remaining is a trade-in value.
-
-I will be trading in my {make} {model} {year} {trim}.
-{single owner (me) [if true]}
-odometer reading {odometer}
-current service and maintenance records
-no mechanical / electrical issues, {still on warranty [if true]}
-no other problems, no noises/rattles, no problems with keeping straight, steering etc.
-{never used for rideshare ([if true]}
-the car is {financed - payoff amount XXXXX| not financed [this is important for further calculations]}
-
-VIN is {VIN of your car} ([list the accidents that will show up on carfax to save time and show honesty])
-
-photos (can add more / retake any moment if needed)
-{url with the photos - e.g. google photo album shared after you took pictures with your phone}
-
-Things that need to be fixed are (I took additional pcitures of them):
-{description1} 
-{description2} 
-
-Interior of the car is without any damage, just needs a typical detailing.
-
-can you please provide the best possible  estimated real sight unseen appraisal for its trade-in value (I can take any photos / videos you request now or share any records that you may need)?
-
-I am interested in real sight unseen trade-in appraisal (I know what it is like, I expect more questions about the car from your used car department): the one that you you used/preowned department can make based on any possibile information about the vehicle that you can request and I can provide (e.g. if you need maintenance or repair records, insurance estimates and so forth). I can also make any required videos and photos that person doing the appraisal might ask.
-
-In the very end I would like to get a number in writing  that will not be different when I come to you to finalize the deal. If you know something that can be checked about the car that cannot be done with photos/videos by request, let me know - I would be really interested (as I did exactly the same for insurance repair estimates and it worked very well)
-
-I understand that you may change the number after looking at the car as something may happen to the car during the drive to the dealership - and I accept that risk. What I do not want is a surprise "whoops, we forgot to ask you about something and just realized that now: because of that your trade in is worth less than we thought".
-
-I shared this reasoning with multiple dealers and some of them agree with this approach (specifically due to COVID more people do stuff online, insurance work like this now 100% of time for photo estimates etc)
-
-Can you ask your used/preowned department to perform the sight unseen trade in appraisal as described and provide the realistic number that you can commit to?
-
-The trade-in price I have so far is from {Place where you drove} and is attached - they offer $XXXXX for the car. 
-```
+> Thanks for the offer, Jeremy
+> 
+> What may help me choose to buy a car from you is the trade-in value.
+> 
+> I am currently reviewing multiple different offers which more or less match for the vehicle spec and price is about the same OTD and all of them are willing to make a deal now, the only difference remaining is a trade-in value.
+> 
+> I will be trading in my {make} {model} {year} {trim}.
+> {single owner (me) [if true]}
+> odometer reading {odometer}
+> current service and maintenance records
+> no mechanical / electrical issues, {still on warranty [if true]}
+> no other problems, no noises/rattles, no problems with keeping straight, steering etc.
+> {never used for rideshare ([if true]}
+> the car is {financed - payoff amount XXXXX| not financed [this is important for further calculations]}
+> 
+> VIN is {VIN of your car} ([list the accidents that will show up on carfax to save time and show honesty])
+> 
+> photos (can add more / retake any moment if needed)
+> {url with the photos - e.g. google photo album shared after you took pictures with your phone}
+> 
+> Things that need to be fixed are (I took additional pcitures of them):
+> {description1} 
+> {description2} 
+> 
+> Interior of the car is without any damage, just needs a typical detailing.
+> 
+> can you please provide the best possible  estimated real sight unseen appraisal for its trade-in value (I can take any photos / videos you request now or share any records that you may need)?
+> 
+> I am interested in real sight unseen trade-in appraisal (I know what it is like, I expect more questions about the car from your used car department): the one that you you used/preowned department can make based on any possibile information about the vehicle that you can request and I can provide (e.g. if you need maintenance or repair records, insurance estimates and so forth). I can also make any required videos and photos that person doing the appraisal might ask.
+> 
+> In the very end I would like to get a number in writing  that will not be different when I come to you to finalize the deal. If you know something that can be checked about the car that cannot be done with photos/videos by request, let me know - I would be really interested (as I did exactly the same for insurance repair estimates and it worked very well)
+> 
+> I understand that you may change the number after looking at the car as something may happen to the car during the drive to the dealership - and I accept that risk. What I do not want is a surprise "whoops, we forgot to ask you about something and just realized that now: because of that your trade in is worth less than we thought".
+> 
+> I shared this reasoning with multiple dealers and some of them agree with this approach (specifically due to COVID more people do stuff online, insurance work like this now 100% of time for photo estimates etc)
+> 
+> Can you ask your used/preowned department to perform the sight unseen trade in appraisal as described and provide the realistic number that you can commit to?
+> 
+> The trade-in price I have so far is from {Place where you drove} and is attached - they offer $XXXXX for the car. 
 
 You will get different replies, depending on them you need to do different things:
 
@@ -486,23 +471,18 @@ The way to tell if number is realistic is to compare it to KBB offer. Anything t
 
 Your reply should be something like this:
 
-```
-Thanks for the number, Briana,
-
-Let me clarify: I need the real sight unseen trade-in appraisal done for my car by one of your people specialising in used cars or preowned cars. The number that is currently provided was likely provided without any appraisal (as questions that are important for sight unseen trade-in appraisal were not even asked). 
-
-Can you do real sight unseen trade-in appraisal (I know what it looks like, I know how other dealerships do it) and provide the number that you can commit to? I plan to come to dealership only to finalize the deal, I do not want any surprises with appraisal value based on something that you can learn about the car now (I can provide any information that you may request and I have no reason to play games with you - I need the most accurate trade-in value that is based on assumption that I am not withholding any information about my car and you requested everything you need to price it accordingly). It is ok to have it lower than you can provide after seeing the car, just provide best number you can commit to that will be competitive. 
-
-```
+> Thanks for the number, Briana,
+> 
+> Let me clarify: I need the real sight unseen trade-in appraisal done for my car by one of your people specialising in used cars or preowned cars. The number that is currently provided was likely provided without any appraisal (as questions that are important for sight unseen trade-in appraisal were not even asked). 
+> 
+> Can you do real sight unseen trade-in appraisal (I know what it looks like, I know how other dealerships do it) and provide the number that you can commit to? I plan to come to dealership only to finalize the deal, I do not want any surprises with appraisal value based on something that you can learn about the car now (I can provide any information that you may request and I have no reason to play games with you - I need the most accurate trade-in value that is based on assumption that I am not withholding any information about my car and you requested everything you need to price it accordingly). It is ok to have it lower than you can provide after seeing the car, just provide best number you can commit to that will be competitive. 
 
 2. Replies that do not contain the value and saying that you must come to have the vehicle appraised and it is not possible to do online or asking for a phone call
 
-```
-Thanks Rick,
-
-If you know something that can be checked about the car that cannot be done with photos/videos by request or by other information I provide, let me know - I would be really interested (as I did online appraisal for insurance repair estimates and it worked very well).
-I am currently working with other dealerships on appraisal and some of them provide the number based on the information that I provide to their used/preowned car department. If you will not be able to do the same, we will not be able to continue working with you on the trade-in.
-```
+> Thanks Rick,
+> 
+> If you know something that can be checked about the car that cannot be done with photos/videos by request or by other information I provide, let me know - I would be really interested (as I did online appraisal for insurance repair estimates and it worked very well).
+> I am currently working with other dealerships on appraisal and some of them provide the number based on the information that I provide to their used/preowned car department. If you will not be able to do the same, we will not be able to continue working with you on the trade-in.
 
 3. Replies that ask additional questions about the car
 
@@ -526,17 +506,13 @@ Dealerships are more interested in the number of CarFax reports on the car and t
 
 Be prepared to wait for additional day for used car department to review the trade-in: salesperson you are talking to usually cannot perform the real sight unseen appraisal. If you are asked to wait, it is a good sign that they are trying to get a hold of someone from used car department or are calling the other dealerships (if you are selling different brand) to get the sense of the best price. Assure them that you can wait and mention that you are working with other dealerships and you know that this can take some time. This will show 2 things: that there is a competition and that you are serious and honest about the trade-in appraisal.
 
-```
-Hi Dan,
+> Hi Dan,
+> 
+> I'll see if my used car manager is still here today, if I can't catch him today I'll probably see if somebody on my team can catch him early tomorrow. When did you need to do this by, this wasn't something you were looking to complete today correct? 
 
-I'll see if my used car manager is still here today, if I can't catch him today I'll probably see if somebody on my team can catch him early tomorrow. When did you need to do this by, this wasn't something you were looking to complete today correct? 
-```
-
-```
-Thanks Pete,
-
-Yes, I am not in a hurry, can definitely wait until tomorrow. I am currently getting the best possible trade-in appraisals from other dealerships, so the process can take 1-2 days, it is absolutely fine, I will wait for your reply.
-```
+> Thanks Pete,
+> 
+> Yes, I am not in a hurry, can definitely wait until tomorrow. I am currently getting the best possible trade-in appraisals from other dealerships, so the process can take 1-2 days, it is absolutely fine, I will wait for your reply.
 
 ## Step 12. Getting offers with OTD price that includes a trade-in.
 
