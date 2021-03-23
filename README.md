@@ -83,7 +83,7 @@ It is very hard for salespeople to lie in emails as the written offers can be sh
 Most salespeople are not good in hanlding emails: for example they love to include the full text of the previous email in their replies and they usually have huge pictures in their email signatures - if you do the the text of each email becomes enormous and it causes problems for email software. To avoid this, each time you reply, delete all the email text and start from the blank page. Treat that as an in-person talk with searchable history, it will save you from lots of problems.
 
 Dealers also usually do not change the subject of email, so if you change it to the one that will be easier to for you to use it will stay - suggested subject name is
-"```<Dealer name> <car description>```"
+"```{Dealer name} {car description}```"
 
 # The email etiquette that you should follow to get the best results in the shortest time
 
@@ -143,7 +143,7 @@ Their profit on each car is price2 - price1. They will not sell a car for loss u
 Your goal is to get as accurate information about what price1 ("dealer cost") is as possible. This is a little tricky, but Internet is your friend.
 
 the two important numbers you want to find is "dealer invoice price" and "holdback". Google details about what they are if you are interested.
-googling "```<brand> dealer invoice price```" is usually enough - this information is not hidden or secret (many different dealerships buy cars from the manufacturer), though it may be tricky to find online. 
+googling "```{brand} dealer invoice price```" is usually enough - this information is not hidden or secret (many different dealerships buy cars from the manufacturer), though it may be tricky to find online. 
 
 At this moment of March 2021, [this place](https://www.car-buying-strategies.com/) has this data for most brands and current year models.
 
@@ -160,7 +160,7 @@ Get preapproved with your bank or and other bank and get the preapproval letter 
 
 ## Step 5. Determine the full list of dealerships that you will contact.
 
-Use web site like google maps to search for "<brand> dealer" and look how long will it take to drive to each of the 
+Use web site like google maps to search for "{brand} dealer" and look how long will it take to drive to each of the 
 dealerships. Your perfect deal may be in any of the ones you find, choose the ones that you can realisticaly drive to if they will offer the best deal. Do not self-limit, include all dealerships that you can potentially get to. Consider how much is one hour of your time worth to determine if it is worth spending 6 hours to drive somewhere and back for saving a thousand dollars, you can use this information later when comparing offers.
 If you are in Seattle and dealership is in Spokane, you should still consider including the dealership in the list - if they will
 have a good offer it can be possible to use it while negotiating with a dealership in Puyallup, it is well worth it.
@@ -183,34 +183,30 @@ dealerships sell your email to afterwards :)
 
 The message is going to be exactly the same and can be copy-pasted.
 
-```
-Hello,
-
-I'm looking to buy the new car by the end of this week.
-
-I am looking for
-
-<Make> <Model> <Year> <Trim> 
-preferably <Color1> exterior/<Color2> interior.
-
-features I need
-
-<Feature1>
-<Feature2>
-...
-
-Please quote me the best OTD price (including all applicable taxes and fees) for such a vehicle if you have one in stock.
-Please also include the OTD price breakdown and the link to the inventory that contains the VIN and the mileage
-
-For the licensing fee calculation my address is in <City> <State>
-
-I will not be doing a trade-in.
-I will be <paying in cash | financing with <your financial institution>>
-
-my email is <your email>, please use it for all communications.
-
-Thanks
-```
+> Hello,
+> 
+> I'm looking to buy the new car by the end of this week.
+> 
+> I am looking for
+> 
+> {Make} {Model} {Year} {Trim} 
+> preferably {Color1} exterior/{Color2} interior.
+> 
+> features I need
+> 
+> {Feature1}
+> {Feature2}
+> 
+> Please quote me the best OTD price (including all applicable taxes and fees) for such a vehicle if you have > one in stock.
+> Please also include the OTD price breakdown and the link to the inventory that contains the VIN and the mileage
+> 
+> For the licensing fee calculation my address is in {City} {State}
+> 
+> I will not be doing a trade-in.
+> I will be {paying in cash | financing with {your financial institution}}
+> 
+> my email is {your email}, please use it for all communications.
+> Thanks
 
 Note that you explicitly mentioned that there will be no trade-in.
 This may be not true if you actually plan on doing one, but negotiations are much easier if you do not negotiate 
@@ -228,7 +224,7 @@ You may have replies of a different categories with the same dealer multiple tim
 Reply that you prefer use email for communications. You may need to do it several times. Be polite but firm.
 
 ```
-Hello <>,
+Hello {},
 
 I would prefer to use email for all communications about buying the car.
 Please share the OTD price breakdown with the link to the inventory for the car I am interested in.
@@ -246,7 +242,7 @@ in their system, it will be easier for salesperson to get on the email track]
 Reply with thank-you email explaining that you actually want OTD price breakdown. You may need to do it several times.
 
 ```
-Hello <>,
+Hello {},
 This is an interesting offer,
 
 Can you please include the information on license and doc fees and also calculate the appropriate sales tax for your county as I am trying to figure out the OTD price. What I need is a the best OTD price that you commit to in the written form. You can send it in a form of purchase agreement that I will have to sign when making a deal in the office.
@@ -353,7 +349,7 @@ Find the offer with the best MSRP discount and send it to other dealerships aski
 ```
 Hello Bonnie,
 
-I have the offer from <Other dealer> (attached) that has a better MSRP discount, I wonder if you can match it - OTD will be lower because sales tax in your county is lower than in <Other dealers county>. Can you do that?
+I have the offer from {Other dealer} (attached) that has a better MSRP discount, I wonder if you can match it - OTD will be lower because sales tax in your county is lower than in {Other dealers county}. Can you do that?
 ```
 
 At this point you may start noticing a difference in dealer behavior: some of them are more open to negotiation that others.
@@ -448,23 +444,23 @@ What may help me choose to buy a car from you is the trade-in value.
 
 I am currently reviewing multiple different offers which more or less match for the vehicle spec and price is about the same OTD and all of them are willing to make a deal now, the only difference remaining is a trade-in value.
 
-I will be trading in my <make> <model> <year> <trim>.
-<single owner (me) [if true]>
-odometer reading <odometer>
+I will be trading in my {make} {model} {year} {trim}.
+{single owner (me) [if true]}
+odometer reading {odometer}
 current service and maintenance records
-no mechanical / electrical issues, <still on warranty [if true]>
+no mechanical / electrical issues, {still on warranty [if true]}
 no other problems, no noises/rattles, no problems with keeping straight, steering etc.
-<never used for rideshare ([if true]>
-the car is <financed - payoff amount XXXXX| not financed [this is important for further calculations]>
+{never used for rideshare ([if true]}
+the car is {financed - payoff amount XXXXX| not financed [this is important for further calculations]}
 
-VIN is <VIN of your car> ([list the accidents that will show up on carfax to save time and show honesty])
+VIN is {VIN of your car} ([list the accidents that will show up on carfax to save time and show honesty])
 
 photos (can add more / retake any moment if needed)
-<url with the photos - e.g. google photo album shared after you took pictures with your phone>
+{url with the photos - e.g. google photo album shared after you took pictures with your phone}
 
 Things that need to be fixed are (I took additional pcitures of them):
-<description1> 
-<description2> 
+{description1} 
+{description2} 
 
 Interior of the car is without any damage, just needs a typical detailing.
 
@@ -480,7 +476,7 @@ I shared this reasoning with multiple dealers and some of them agree with this a
 
 Can you ask your used/preowned department to perform the sight unseen trade in appraisal as described and provide the realistic number that you can commit to?
 
-The trade-in price I have so far is from <Place where you drove> and is attached - they offer $XXXXX for the car. 
+The trade-in price I have so far is from {Place where you drove} and is attached - they offer $XXXXX for the car. 
 ```
 
 You will get different replies, depending on them you need to do different things:
