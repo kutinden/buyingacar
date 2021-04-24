@@ -6,7 +6,6 @@ This text describes the process of buying a new car from the US dealership of a 
 The process will most likely work in other states that are similar to Washington, like California 
 It also includes the details about getting the best value trade-in from the dealership (if you decide to trade you car in).
 
-# Context
 
 Buying a car from the US car dealership is in some way similar a buying something on the Istanbul's Grand Bazaar.
 If you buy a car for the window sticker price you will be overpaying a lot.
@@ -70,7 +69,7 @@ usually involve "going to the manager to print it out"
 Salespeople are motivated by greed and fear - you should use both for your own benefit.
 
 **Greed** - they want to get as much money from you as possible and receive their commission - always hint them that they will get the best deal from you if they play by 
-your rules (of course, do not tell this explicitly), mention that you want to work with them to get the best deal. Alwys be polite, do not be rude or condescending. you do not have to behave like their friend (they are not your friends), just be nice.
+your rules (of course, do not tell this explicitly), mention that you want to work with them to get the best deal. Always be polite, do not be rude or condescending. you do not have to behave like their friend (they are not your friends), just be nice.
 
 **Fear** - they are afraid to lose the deal to other dealership who is faster, responds better or brainwashes / fools you better - always mention that you are reviewing offers from other dealers, mention that other dealers are doing something this particular dealership refuses to do and this may be the reason for them to not have a deal with you. Never quote other email texts, only share the written proposals or just numbers. This works wonders. Remember: dealerships can and do call each other - they can catch you lying. You should be absolutely honest, but you also should not say more than needed - some information is important for getting the best price from dealers and they have no reason to have it from you.
 
