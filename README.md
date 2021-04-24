@@ -62,7 +62,7 @@ The person who you will be working with the most is a "salesperson". This would 
 and do most of the communication first. Their title is "sales consultant" or "sales specialist" etc. You will see that
 in email signature
 
-As you will progress though negotiations, the person with "manager" in title will be included in the conversation - you will either be
+As you will progress through negotiations, the person with "manager" in title will be included in the conversation - you will either be
 emailing a different person (whom your first contact will forward the emails) or salesperson will repeatedly mention his manager as an excuse
 for the delay in reply. This is a good sign - as it resembles what happens in dealerships when you visit in person. For example, the OTD price breakdowns
 usually involve "going to the manager to print it out"
