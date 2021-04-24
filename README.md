@@ -24,14 +24,14 @@ Before Internet, car sales looked similar to what you can see in movies like Gle
 https://www.youtube.com/watch?v=r6Lf8GtMe4M
 https://www.youtube.com/watch?v=AO_t7GtXO6w (even though
 it is about real estate sellers, not car dealers): you have to walk in and negotiate the price with the expert in negotiation
-who is motivated to make you pay as much as you can - he will receive a comission based on the value of the deal.
+who is motivated to make you pay as much as you can - he will receive a commission based on the value of the deal.
 Salespeople are trained to determine what you can pay by the way you are dressed, the way you look, talk or sit. 
 There are books about it, courses you can take to be better at it.
 
 Nowadays, dealerships have to support email communications. Whoever does it poorly or still only employs sales tactics from 1980s,
 gets out of business if enough dealerships around start to support email.
 This situation offers a huge benefit for the tech-savvy buyer as it is much harder 
-to employ negotiation/persuation tactics over the email and it is much easier to make dealerships compete with 
+to employ negotiation/persuasion tactics over the email and it is much easier to make dealerships compete with 
 each other for your deal by using email and the algorithm described here. 
 
 # Market economy
@@ -44,8 +44,8 @@ This is only possible if
 
 1. the supply is big (many dealerships are selling the car you want),
 2. demand is small (no flocks of rich people buying cars without looking at the price tag),
-3. there is a competition (you are not sitting inside one of the dealerships brainwashed by a salesperson and instead you write  emails making delerships aware of each other's offers. It is you who is controlling what information salespeople receive, it is now you who can do manipulation and negotiation as you have a leverage and play dirty tricks on dealers that only dealers previously enjoyed).
-4. there is no price fixing: dealers act independenly of each other.
+3. there is a competition (you are not sitting inside one of the dealerships brainwashed by a salesperson and instead you write  emails making dealerships aware of each other's offers. It is you who is controlling what information salespeople receive, it is now you who can do manipulation and negotiation as you have a leverage and play dirty tricks on dealers that only dealers previously enjoyed).
+4. there is no price fixing: dealers act independently of each other.
 
 The above restrictions are important. The ideas shared in this post do not always work (and sometimes never work)
 when you try to buy a car of a luxury brand which has ~3 dealerships in your state (hello, fellow eastside Washingtonians, you probably know what brand I am talking about). Think about that as of a monopoly or cartel agreement - 
@@ -69,18 +69,18 @@ usually involve "going to the manager to print it out"
 
 Salespeople are motivated by greed and fear - you should use both for your own benefit.
 
-**Greed** - they want to get as much money from you as possible and receive their comission - always hint them that they will get the best deal from you if they play by 
+**Greed** - they want to get as much money from you as possible and receive their commission - always hint them that they will get the best deal from you if they play by 
 your rules (of course, do not tell this explicitly), mention that you want to work with them to get the best deal. Alwys be polite, do not be rude or condescending. you do not have to behave like their friend (they are not your friends), just be nice.
 
 **Fear** - they are afraid to lose the deal to other dealership who is faster, responds better or brainwashes / fools you better - always mention that you are reviewing offers from other dealers, mention that other dealers are doing something this particular dealership refuses to do and this may be the reason for them to not have a deal with you. Never quote other email texts, only share the written proposals or just numbers. This works wonders. Remember: dealerships can and do call each other - they can catch you lying. You should be absolutely honest, but you also should not say more than needed - some information is important for getting the best price from dealers and they have no reason to have it from you.
 
 You do not have to lie to get the best price from dealers. Dealerships, on the other hand, have to do it to get the best deal for them when you are sitting inside in-person. They also lie over email. Remember that when talking to them and always mention that you are 100% honest and expect honesty from them. There will be no honesty, but the fact that you mention it, will also trigger guilt (in addition to greed and fear) which may work for your benefit.
 
-It is very hard for salespeople to lie in emails as the written offers can be shared and they can be caught lying by other dealerships. They will try to refuse to have written offers and invent million reasons to not do it (starting from "the computer system only works when you come in person", "I cannot see your attachment") etc. Politely mention that you are able to get quotes from other delerships and ask if they can provide the same - if they refuse, it means that you will not be able to work with them. Most of dealerships want your deal, they will stop playing these games once they see that their competitors don't play them.
+It is very hard for salespeople to lie in emails as the written offers can be shared and they can be caught lying by other dealerships. They will try to refuse to have written offers and invent million reasons to not do it (starting from "the computer system only works when you come in person", "I cannot see your attachment") etc. Politely mention that you are able to get quotes from other dealerships and ask if they can provide the same - if they refuse, it means that you will not be able to work with them. Most of dealerships want your deal, they will stop playing these games once they see that their competitors don't play them.
 
 # Technical notes on email format/text
 
-Most salespeople are not good in hanlding emails: for example they love to include the full text of the previous email in their replies and they usually have huge pictures in their email signatures - if you do the the text of each email becomes enormous and it causes problems for email software. To avoid this, each time you reply, delete all the email text and start from the blank page. Treat that as an in-person talk with searchable history, it will save you from lots of problems.
+Most salespeople are not good in handling emails: for example they love to include the full text of the previous email in their replies and they usually have huge pictures in their email signatures - if you do the text of each email becomes enormous and it causes problems for email software. To avoid this, each time you reply, delete all the email text and start from the blank page. Treat that as an in-person talk with searchable history, it will save you from lots of problems.
 
 Dealers also usually do not change the subject of email, so if you change it to the one that will be easier to for you to use it will stay - suggested subject name is
 "```{Dealer name} {car description}```"
@@ -91,9 +91,9 @@ Dealers also usually do not change the subject of email, so if you change it to 
 
 2. Each email thread with a dealer should **always** be in 2 possible states:
 
-a) You are  waiting for reply from the other party. If the reply does not happen for too long, you can ping them. Sometimes they are getting distracted by a client who came in-person and may take long time to reply - it is ok. 
+a) You are waiting for reply from the other party. If the reply does not happen for too long, you can ping them. Sometimes they are getting distracted by a client who came in-person and may take long time to reply - it is ok. 
 
-b) waiting for something to happen (e.g. waiting for replies from other dealers, going to bed, comparing offers etc) before you can reply back - in this case you reply back with the explaination to the other party what are you doing now ASAP. This will make it easy to email to you for the dealer and will minimise the time you spend emailing (you will be able to work during that time).
+b) waiting for something to happen (e.g. waiting for replies from other dealers, going to bed, comparing offers etc) before you can reply back - in this case you reply back with the explanation to the other party what are you doing now ASAP. This will make it easy to email to you for the dealer and will minimize the time you spend emailing (you will be able to work during that time).
 
 3. It is ok **for you** to not answer questions that you do not need to answer (e.g. what are your certain plans, your budget etc), ignore them completely.
 
@@ -108,7 +108,7 @@ You will get links like [this](https://www.moneyunder30.com/get-the-best-deal-on
 contains lots of useful information that may not be mentioned here. This text focuses on the implementation details - 
 concrete steps you need to take and details you want to know about.
 
-## Step 1. Determine what is the car you want.
+## Step 1. Determine what the car you want is.
 
 You must define what is the 
 - make and model
@@ -161,7 +161,7 @@ Get preapproved with your bank or and other bank and get the preapproval letter 
 ## Step 5. Determine the full list of dealerships that you will contact.
 
 Use web site like google maps to search for "{brand} dealer" and look how long will it take to drive to each of the 
-dealerships. Your perfect deal may be in any of the ones you find, choose the ones that you can realisticaly drive to if they will offer the best deal. Do not self-limit, include all dealerships that you can potentially get to. Consider how much is one hour of your time worth to determine if it is worth spending 6 hours to drive somewhere and back for saving a thousand dollars, you can use this information later when comparing offers.
+dealerships. Your perfect deal may be in any of the ones you find, choose the ones that you can realistically drive to if they will offer the best deal. Do not self-limit, include all dealerships that you can potentially get to. Consider how much is one hour of your time worth to determine if it is worth spending 6 hours to drive somewhere and back for saving a thousand dollars, you can use this information later when comparing offers.
 If you are in Seattle and dealership is in Spokane, you should still consider including the dealership in the list - if they will
 have a good offer it can be possible to use it while negotiating with a dealership in Puyallup, it is well worth it.
 Dealerships in Oregon (Portland, specifically) sometimes can offer fantastic deals (but remember that you will still have to pay sales tax in WA, mention it very clearly that your car will be registered in WA, they know how to deal with this as they have around 1/3rd of their clients from WA)
@@ -174,9 +174,9 @@ Web sites of the dealerships usually have "contact us" button with a form that i
 You will use that to send them the first message, all your future communication will go via your email.
 The form may ask for the phone number. Never put your phone number there. If the number is required to submit a form, provide a fake one.
 Always put the email for reply back. Also put your email in the message text. If asked for preferred communication method, explicitly specify "email".
-Also metion that all communications will be via email in the message you will be sending.
+Also mention that all communications will be via email in the message you will be sending.
 
-(Side note for geeks): as a fun excercise you can leave a different email in each form and make it go to a single email automatically.
+(Side note for geeks): as a fun exercise you can leave a different email in each form and make it go to a single email automatically.
 GMail supports it via youremail+tag@gmail.com - no matter what "tag" is, email will always get to youremail@gmail.com,
 but you will know what the tag is from the email target. This is very useful for email-filtering and for figuring out who
 dealerships sell your email to afterwards :)
@@ -233,7 +233,7 @@ Reply that you prefer use email for communications. You may need to do it severa
 
 2. Name-your-own-price emails ("what price will make you buy a car from us today" "what should I do to win your business"): reply with the price below the dealer cost from step 2, repeat the list of vehicle requirements in the reply email and repeat that you need their best OTD price breakdown. 
 
-3. "We dont have this exact car, are you interested in another one which is similar" - do not reply anymore, save this contact for later, you will need it for trade-in negotiations or in case you decide to go with another color/trim (this is not recommended as it makes it harder to negotiate, but it is possible).
+3. "We don’t have this exact car, are you interested in another one which is similar" - do not reply anymore, save this contact for later, you will need it for trade-in negotiations or in case you decide to go with another color/trim (this is not recommended as it makes it harder to negotiate, but it is possible).
 
 4. Links to the web sites with "exclusive internet price" or just numbers listed in email without the price breakdown.
 Reply with thank-you email explaining that you actually want OTD price breakdown. You may need to do it several times.
@@ -241,7 +241,7 @@ Reply with thank-you email explaining that you actually want OTD price breakdown
 > Hello {},
 > This is an interesting offer,
 >
-> Can you please include the information on license and doc fees and also calculate the appropriate sales tax for your county as I am trying to figure out the OTD price. What I need is a the best OTD price that you commit to in the written form. You can send it in a form of purchase agreement that I will have to sign when making a deal in the office.
+> Can you please include the information on license and doc fees and also calculate the appropriate sales tax for your county as I am trying to figure out the OTD price. What I need is the best OTD price that you commit to in the written form. You can send it in a form of purchase agreement that I will have to sign when making a deal in the office.
 
 5. Anything that mentions a deposit you need to make to hold the vehicle under your name (they may mention that the vehicle is in high demand and can be bought by someone else). 
 Reply that you do not plan doing any deposits and you know other dealerships that work without deposits.
@@ -267,7 +267,7 @@ They usually look like this:
 > link to the inventory: http://....
 > VIN XXXXXXX
 
-If a dealership is refusing to provide OTD price breakdown after being asked to do it multple times, stop replying to them.
+If a dealership is refusing to provide OTD price breakdown after being asked to do it multiple times, stop replying to them.
 You may want to contact them later for trade-in negotiations. Though there is a high chance that they will not have a good deal for trade-in as well, you may ignore them altogether.
 
 Actively dismiss any attempts to have a phone call (there will be many with different creative pretexts), you may mention that you are busy and want to make a deal quickly. Email is a way that works the best for that. Talking over the phone is slower than writing and reading emails - having a call only benefits the dealer and they know that. Make them understand that you know that too. Politely tell it to them.
@@ -301,7 +301,7 @@ To request a picture of Monroney sticker if you do not already have one (most li
 
 "MSRP discount" is the difference between MSRP and the Sale price of the car. It is easier to negotiate between different offers if you have this number for each deal. 
 
-Online guides tell you to not negotiate from MSRP and down, but rather negotiate from dealer cost and up (or "invoice and up"). This is a good suggestion, but I found that it is hard to follow in practice as it is really hard to determine the real dealer cost incuding all incentives and holdbacks. Since MSRP is the same for same car, comparing offers by the difference between MSRP and Sale price (assuming other fees are more or less identical) is as good as comparing between dealer cost (which dealer is not motivated to tell you) and the Sale price.
+Online guides tell you to not negotiate from MSRP and down, but rather negotiate from dealer cost and up (or "invoice and up"). This is a good suggestion, but I found that it is hard to follow in practice as it is really hard to determine the real dealer cost including all incentives and holdbacks. Since MSRP is the same for same car, comparing offers by the difference between MSRP and Sale price (assuming other fees are more or less identical) is as good as comparing between dealer cost (which dealer is not motivated to tell you) and the Sale price.
 
 The term "Monroney sticker" (also known as "window sticker" for most of us) is usually not known by someone outside of the car sales industry. In some cases this will make a person talking to you treat you more seriously and not try to play games with you. Just do not write "window sticker", write "Monroney sticker" or just "Monroney". They will understand.
 
@@ -309,7 +309,7 @@ As an alternative approach, you may share the dealer invoice price that you have
 
 Dealerships cannot change the following:
 - Licensing fee estimate (it depends on the place you live, it would be lower a little if the car is priced lower, but not that much) 
-- Sales tax rate - the rate is determined by the county dealership is in. In some remote counties like Colwitz county sales tax is lower than in counties like King county where most of the dealerships are.
+- Sales tax rate - the rate is determined by the county dealership is in. In some remote counties like Colwitz county sales tax is lower than in counties like King County where most of the dealerships are.
 Lower sales tax can make the OTD price lower with the other things being equal. If you happen to have such an offer, this is very good.
 Typically, in the counties with lower sales tax dealerships also have fewer deals and the price the same cars higher to make more profit off each car.
 - Their location - how much time you need to drive to them.
@@ -320,7 +320,7 @@ Dealerships can change:
 3. Price of the dealer-installed equipment: they can either remove it (or not install it) or sell it on much lower price.
 You should try to avoid deals that have additional options installed by dealer as this will certainly be a way to overpay for something that you either do not need or can get much cheaper or for free elsewhere. Always ask if it is possible to remove it or avoid having it installed. If the answer is "no", treat it as an increase in a sale price and never assume the car they have is better and can cost more than the ones from competitors.
 
-Start by finding the best possible OTD price (pay attention to the fact that licensing fee is only estimate and should not be considered as a dealbreaker when you compare offers) and send the copy of it (ideally as a PDF) to all other dealerships asking if they can do better than that. Gather the new offers, ask them in PDF form if possible.
+Start by finding the best possible OTD price (pay attention to the fact that licensing fee is only estimate and should not be considered as a deal breaker when you compare offers) and send the copy of it (ideally as a PDF) to all other dealerships asking if they can do better than that. Gather the new offers, ask them in PDF form if possible.
 
 > Hello Jack,
 >
@@ -333,7 +333,7 @@ Some dealers may reply that they "cannot open your attachment" or "did not recei
 
 After you have new offers that either match what best OTD is or are better than original ones, look at MSRP discount (or, as alternative, the difference between sale price and the invoice price you found in step 3) for each offer. They will be different - the better ones have MSRP discount higher or difference from invoice lower (MSRP should be the same if the car is the same in all dealerships).
 
-Find the offer with the best MSRP discount and send it to other dealerships asking if they can match MSRP discount - this may futher reduce the price as other dealerships will see that their competitors are moving less from the invoice price then they do and will try to match that
+Find the offer with the best MSRP discount and send it to other dealerships asking if they can match MSRP discount - this may further reduce the price as other dealerships will see that their competitors are moving less from the invoice price then they do and will try to match that
 
 > Hello Bonnie,
 >
@@ -345,22 +345,22 @@ This event is more likely in the end of the month or in the end of the calendar 
 
 There is another factor that makes a huge difference: the mileage on the new car.
 
-If the new car has ~100 miles on it it means that it has been on a dealers' lot for a long time and has been used for a lot of test drives, but no one bought it yet.
+If the new car has ~100 miles on it means that it has been on a dealers' lot for a long time and has been used for a lot of test drives, but no one bought it yet.
 You use that as a leverage and assume that the dealer is more willing to negotiate on it for selling it close to invoice or below invoice.
 This is the sweet spot for you (if you happen to find one) - because this is a new car that dealer was not able to sell quickly
 and it so happens that you want exactly that make and model and color and the dealer is motivated to sell it fast. If it is indeed the case, you will likely get the best deal from such dealership. Use that deal (in writing) to negotiate with other dealers as described above.
 
 You can always find what the mileage is on the new car (dealers typically provide this information on their web sites in inventory pages) or you can explicitly ask for it if you cannot find it.
 
-During all the time when sending emails to dealers you must periodically metion that you are currently reviewing offers 
+During all the time when sending emails to dealers you must periodically mention that you are currently reviewing offers 
 from different dealerships and they want to earn your business. This will make salesperson want to close the deal faster
 and come up with the best offer they can.
 
 ## Step 9. Choosing the best deal for the new car
 
 At this point you should have several offers with more or less matching OTD price.
-If you do not plan doing any trade-in, simply chose the one that has smallest OTD price and is not too far away (you can calculate how much it costs to drive to some far away place and back by using your hourly salary adding a price of gas. If the offer does not compensate that, it is not worth driving there, this offer can and should be used for negotiations though).
-Then make the finall pass around all dealers saying that this is the last possible time for them to earn your business.
+If you do not plan doing any trade-in, simply chose the one that has smallest OTD price and is not too far away (you can calculate how much it costs to drive to some faraway place and back by using your hourly salary adding a price of gas. If the offer does not compensate that, it is not worth driving there, this offer can and should be used for negotiations though).
+Then make the final pass around all dealers saying that this is the last possible time for them to earn your business.
 You are going to accept the attached offer unless you get better OTD price until certain specific time (usually, 24 hours or so). Wait for the better offer and then go to the dealership - skip to the Step 13.
 
 ## Step 10. Trade-in
@@ -375,14 +375,14 @@ You have a choice between trade-in and a private party sale, the price of the ca
 - tax savings in some states. 
 
 Most people think that tax savings on trade-ins is something that is significant (and dealerships like to make you believe this), in fact they are not that big  and well compensated by lower price of trade-in as compared to the private party price.
-The real reasons most people chose to do trade-ins and not do private sell are convenience and safety. Think about that when choosing trade-in over the private party sale. Consider how much you can pay for the convenience an safety to decide.
+The real reasons most people chose to do trade-ins and not do private sell are convenience and safety. Think about that when choosing trade-in over the private party sale. Consider how much you can pay for the convenience anв safety to decide.
 
 Regarding tax break for Washington read https://dor.wa.gov/education/industry-guides/auto-dealers/trade-ins
 The price of your trade-in that you will negotiate with the dealer will be exempt from the sales tax that you will have to pay for your new car. This means that if you will have a trade-in, all OTD prices you currently have negotiated will have to be recalculated given that the taxable amount is different (you recalculate the tax value and the total cost you will pay). This has some interesting consequences.
 
 1. If you are doing trade-in the difference between tax rates in different counties becomes less important. The dealerships that you preferred as the ones that have the lowest tax rate may no longer have the best deal (assuming they all offer the same trade-in value, we will get to it later).
 
-2. If you are trading in a good car in a good conditon and low mileage (meaning that your trade-in price will be comparable to the price of the car you are buying) the best offer is not the one that saves you couple thousand dollars on the sale price of the new car, but the one that gives the best value for your trade-in. Tables have turned, now you are selling and they are buying. It is still same market economy in action with limited supply (your 1 good car) and multiple demand (several dealerships with OTD offers from step 9 who want a deal with you assuming you do not want trade in and waiting to be surprized)
+2. If you are trading in a good car in a good condition and low mileage (meaning that your trade-in price will be comparable to the price of the car you are buying) the best offer is not the one that saves you couple thousand dollars on the sale price of the new car, but the one that gives the best value for your trade-in. Tables have turned, now you are selling and they are buying. It is still same market economy in action with limited supply (your 1 good car) and multiple demand (several dealerships with OTD offers from step 9 who want a deal with you assuming you do not want trade in and waiting to be surprised)
 
 I assume that your car is in a good condition and has a reasonable mileage with maybe some minor repairs that are required (like, fixing scratches, fixing curb damage on wheels, replacing tires, deep detailing, maybe some minor bodywork like replacing the fender that you have postponed). 
 
@@ -394,11 +394,11 @@ What is important for next steps is for you to be able to be absolutely honest a
 
 Do not worry about anything that can show up on CarFax (unless this was something big, not fender-bender or parking lot hit-and-run). If you have some big repairs done to the car, the below ideas may not work for you or work against you.
 
-If you have some repairs required on the car to get it to the excellent condition and they cost above your deductable, you may want to file a claim with your auto insurance and get the check before trading the car in. This way in some cases you can get the free money. You do not have to spend it on repairing the car, dealership will do the repairs. Depending on your insurance it may or may not be a good idea to do (in some cases it may cause your premium to increase but not always, it depends on your insurance, e.g. some of them have "single accident forgiveness program" that you can use, do your research).
+If you have some repairs required on the car to get it to the excellent condition and they cost above your deductible, you may want to file a claim with your auto insurance and get the check before trading the car in. This way in some cases you can get the free money. You do not have to spend it on repairing the car, dealership will do the repairs. Depending on your insurance it may or may not be a good idea to do (in some cases it may cause your premium to increase but not always, it depends on your insurance, e.g. some of them have "single accident forgiveness program" that you can use, do your research).
 
 If you file a claim you will also get a good lowball estimate of the repair cost that you can use when negotiating about your trade-in.
 
-If you decide not to file a claim, just go to your insurance preferred bodyshop and do the estimate - get the numbers from them which will include the repair price and the list of things they need to do, this is usually free and can be done within 1-2 business days. You goal is to get as small estimate as possible, do not go to places that are known of high prices and good quality of work - you need an estimate for negotiation, not for repairs.
+If you decide not to file a claim, just go to your insurance preferred body shop and do the estimate - get the numbers from them which will include the repair price and the list of things they need to do, this is usually free and can be done within 1-2 business days. You goal is to get as small estimate as possible, do not go to places that are known of high prices and good quality of work - you need an estimate for negotiation, not for repairs.
  
 ## Step 11. Trade-in appraisal.
 
@@ -406,7 +406,7 @@ If you did not already do it in Step 2, drive to the closest dealership and ask 
 This may be a dealership that you have already contacted. Ask for written offer from them that will include the trade-in price, mention that you are still
 comparing the offers and will get back to them if no one else will be able to match their deal.
 
-After that you will need to ask "sight unseel trade-in appraisal" from other dealerships to avoid driving to each one of them.
+After that you will need to ask "sight unseen trade-in appraisal" from other dealerships to avoid driving to each one of them.
 They will be more likely to perform it after seeing your offer and knowing that some other dealership already saw a car in-person.
 
 For preparation for sight unseen appraisal, do the following:
@@ -444,17 +444,17 @@ Send the following email to all dealers including the ones that did not have the
 > photos (can add more / retake any moment if needed)
 > {url with the photos - e.g. google photo album shared after you took pictures with your phone}
 > 
-> Things that need to be fixed are (I took additional pcitures of them):
+> Things that need to be fixed are (I took additional pictures of them):
 > {description1} 
 > {description2} 
 > 
 > Interior of the car is without any damage, just needs a typical detailing.
 > 
-> can you please provide the best possible  estimated real sight unseen appraisal for its trade-in value (I can take any photos / videos you request now or share any records that you may need)?
+> can you please provide the best possible estimated real sight unseen appraisal for its trade-in value (I can take any photos / videos you request now or share any records that you may need)?
 > 
-> I am interested in real sight unseen trade-in appraisal (I know what it is like, I expect more questions about the car from your used car department): the one that you you used/preowned department can make based on any possibile information about the vehicle that you can request and I can provide (e.g. if you need maintenance or repair records, insurance estimates and so forth). I can also make any required videos and photos that person doing the appraisal might ask.
+> I am interested in real sight unseen trade-in appraisal (I know what it is like, I expect more questions about the car from your used car department): the one that your used/preowned department can make based on any possible information about the vehicle that you can request and I can provide (e.g. if you need maintenance or repair records, insurance estimates and so forth). I can also make any required videos and photos that person doing the appraisal might ask.
 > 
-> In the very end I would like to get a number in writing  that will not be different when I come to you to finalize the deal. If you know something that can be checked about the car that cannot be done with photos/videos by request, let me know - I would be really interested (as I did exactly the same for insurance repair estimates and it worked very well)
+> In the very end I would like to get a number in writing that will not be different when I come to you to finalize the deal. If you know something that can be checked about the car that cannot be done with photos/videos by request, let me know - I would be really interested (as I did exactly the same for insurance repair estimates and it worked very well)
 > 
 > I understand that you may change the number after looking at the car as something may happen to the car during the drive to the dealership - and I accept that risk. What I do not want is a surprise "whoops, we forgot to ask you about something and just realized that now: because of that your trade in is worth less than we thought".
 > 
@@ -473,7 +473,7 @@ Your reply should be something like this:
 
 > Thanks for the number, Briana,
 > 
-> Let me clarify: I need the real sight unseen trade-in appraisal done for my car by one of your people specialising in used cars or preowned cars. The number that is currently provided was likely provided without any appraisal (as questions that are important for sight unseen trade-in appraisal were not even asked). 
+> Let me clarify: I need the real sight unseen trade-in appraisal done for my car by one of your people specializing in used cars or preowned cars. The number that is currently provided was likely provided without any appraisal (as questions that are important for sight unseen trade-in appraisal were not even asked). 
 > 
 > Can you do real sight unseen trade-in appraisal (I know what it looks like, I know how other dealerships do it) and provide the number that you can commit to? I plan to come to dealership only to finalize the deal, I do not want any surprises with appraisal value based on something that you can learn about the car now (I can provide any information that you may request and I have no reason to play games with you - I need the most accurate trade-in value that is based on assumption that I am not withholding any information about my car and you requested everything you need to price it accordingly). It is ok to have it lower than you can provide after seeing the car, just provide best number you can commit to that will be competitive. 
 
@@ -497,7 +497,7 @@ If they really do the real sight unseen trade-in appraisal they absolutely must 
 
 one of these "marker" questions is related to whether anyone have smoked in the car (and about the smells/odors in the car in general).
 
-If the dealer starts asking such questions, you are on the right track. Make every possible effort to help them to determine the most accurate price - they work for your benefit here (as it benefits them too and they decided not to play trade-in devaluation game on you - maybe they hope they will be doing it some other way). You should make it absolutely clear, multiple times, that you can provide everything for their used car department, with all honesty, take any additional photos they may require or share insurance estimates - all to make sure what they will see in person will be exactly what you have shown and told them over email. Your goal is to have the moral right to walk away if after they will see the car in person they will name you a different trade-in price for some crazy reason. You will have to do it in this case and it may be hard to do. Dealer should be aware of that and you should have a written commitment to not trying to do trade-in devaluation on you. After you mention "trade-in devaluation" and that you do not plan to negotiate at the dealership they will likely understand that you are serious about it. Not many people know that term. Google it, results may surprize you :)
+If the dealer starts asking such questions, you are on the right track. Make every possible effort to help them to determine the most accurate price - they work for your benefit here (as it benefits them too and they decided not to play trade-in devaluation game on you - maybe they hope they will be doing it some other way). You should make it absolutely clear, multiple times, that you can provide everything for their used car department, with all honesty, take any additional photos they may require or share insurance estimates - all to make sure what they will see in person will be exactly what you have shown and told them over email. Your goal is to have the moral right to walk away if after they will see the car in person they will name you a different trade-in price for some crazy reason. You will have to do it in this case and it may be hard to do. Dealer should be aware of that and you should have a written commitment to not trying to do trade-in devaluation on you. After you mention "trade-in devaluation" and that you do not plan to negotiate at the dealership they will likely understand that you are serious about it. Not many people know that term. Google it, results may surprise you :)
 
 You will still be asked to come to dealerships for the final appraisal, for example, if you have carfax reports on your car.
 It is fine as long as they still provide the number after you offer to provide insurance estimates and repair records. They should agree that their number should not be going down after they see the car, but can go up if it will be more than they expected (the latter will, of course, never happen).
@@ -516,7 +516,7 @@ Be prepared to wait for additional day for used car department to review the tra
 
 ## Step 12. Getting offers with OTD price that includes a trade-in.
 
-After you get the trade-in appraised by used car department you should start to get an understanding of how dealers want to give for your car. As a fun excercise you can now try to match it with KBB and see how it goes. Once at least one department does the real appraisal it becomes much easier to get the same information from others: just mention that you already have appraisal from other dealership and mention questions they asked and information you provided. Do not intially share the trade-in value. Your email will get to the right people faster this way.
+After you get the trade-in appraised by used car department you should start to get an understanding of how dealers want to give for your car. As a fun exercise you can now try to match it with KBB and see how it goes. Once at least one department does the real appraisal it becomes much easier to get the same information from others: just mention that you already have appraisal from other dealership and mention questions they asked and information you provided. Do not initially share the trade-in value. Your email will get to the right people faster this way.
 
 Ask each dealer to update the Purchase agreement they have provided taking into account the trade-in value they offered.
 They might refuse saying that this is not the final trade-in value and it may change after they see the car - make them sure
@@ -527,7 +527,7 @@ You can also use just the trade-in value from the offers if some offers include 
 
 After you follow the same process of decreasing OTD price (it may so happen that in some cases dealerships may have to pay you if your trade-in is worth more than the new car - this is fine and they know how to do it) you will get the list of offers.
 
-Make one final call saying that this will be the last call and you are waiting for the best possible offer to beat the exsting one until some deadline. Wait until deadline and choose the best deal.
+Make one final call saying that this will be the last call and you are waiting for the best possible offer to beat the existing one until some deadline. Wait until deadline and choose the best deal.
 
 ## Step 13. At the dealership
 
@@ -537,7 +537,7 @@ If you are making a trade-in do not forget to bring
 - second key for the car if you have one
 - proof of insurance
 
-1. Mention that you are really busy, schedule a dealership visit on Saturday evening around 30 minutes to 1 hour until closing time. Saturday is the busiest day in dealerships, everyone will be tired and want to go home sooner and this will save you from typical dealer upsell tricks and additional insurance / warranty / options they might want to add. Refuse all of them, do not believe anything about extended warranties or additional protections. Salespeople are never entirely honest with you - your interests about money are exactly opposite, you have no reason to believe anything you cannot check yourself. You likely can get some products cheaper elesewhere, there is nothing special about current time that will be different tomorrow when you are out of the dealership that would prevent you from buying anything they offer from someone else. 
+1. Mention that you are really busy, schedule a dealership visit on Saturday evening around 30 minutes to 1 hour until closing time. Saturday is the busiest day in dealerships, everyone will be tired and want to go home sooner and this will save you from typical dealer upsell tricks and additional insurance / warranty / options they might want to add. Refuse all of them, do not believe anything about extended warranties or additional protections. Salespeople are never entirely honest with you - your interests about money are exactly opposite, you have no reason to believe anything you cannot check yourself. You likely can get some products cheaper elsewhere, there is nothing special about current time that will be different tomorrow when you are out of the dealership that would prevent you from buying anything they offer from someone else. 
 
 2. Make sure trade-in value they offer after they see your car is the same that was offered over the email. Check that the final OTD price matches the one you had in email. If something does not match and you believe that they could've checked that online with you before visit, politely check if there was any mistake, and if they try to start a negotiation either on trade-in or on a new car, stop talking, walk away and try the next best offer. This will be hard to do (and this is why dealerships want you to come so badly), it is up to you to decide. Probability of such event is small, but it still exists. Remember: they have no way to force you to stay in the dealership or listen to them (except brainwashing you), you can walk away at any moment.
 
